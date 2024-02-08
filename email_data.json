@@ -1,0 +1,8 @@
+{
+  "sender_email": "example@gmail.com",
+  "app_password": "your_app_password",
+  "case_study_folder": "case_study",
+  "recipient_emails": ["email@example.com", "another_email@example.com"],
+  "subject": ["Subject 1", "Subject 2"],
+  "case_study_pdf_names": ["file1.pdf", "file2.pdf"]
+}
